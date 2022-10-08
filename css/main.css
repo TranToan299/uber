@@ -517,3 +517,24 @@ input[type=radio]:checked ~ label{
   display: none ;
  }
  /* End div thanh tien */
+
+
+
+ .modal-backdrop.fade {
+  display: none;
+ }
+
+ table {
+  width: 100%;
+  text-align: center;
+ }
+
+ table tr td{
+  border-top: 2px solid rgb(221, 218, 218);
+  border-bottom: 2px solid rgb(221, 218, 218);
+  padding: 15px 0;
+ }
+
+
+
+ 
